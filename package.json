@@ -1,7 +1,7 @@
 {
-  "name": "supabase",
+  "name": "@earthena/supabase",
   "version": "1.0.0",
-  "description": "supabase fuctions on typescript",
+  "description": "supabase functions on typescript",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
