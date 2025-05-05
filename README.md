@@ -1,6 +1,6 @@
-# supabase
+# Supabase
 
-supabase functions on typescript
+Supabase functions on typescript
 
 ## Description
 
@@ -11,7 +11,7 @@ This package provides TypeScript functions related to Supabase. It utilizes the 
 You can install this package using npm:
 
 ```bash
-npm install supabase
+npm i @earthena/supabase
 ```
 
 ## Usage
