@@ -1,0 +1,28 @@
+{
+  "name": "supabase",
+  "version": "1.0.0",
+  "description": "supabase fuctions on typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dmitriyrusnak1/supabase.git"
+  },
+  "author": "earthena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitriyrusnak1/supabase/issues"
+  },
+  "homepage": "https://github.com/dmitriyrusnak1/supabase#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.6.1",
+    "@supabase/supabase-js": "^2.49.4"
+  }
+}
